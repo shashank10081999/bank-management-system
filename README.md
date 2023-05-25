@@ -5,7 +5,7 @@ Getting Started
 To get started, clone the repository and install the dependencies:
 
 Code snippet
-git clone https://github.com/[your-username]/bank-management-system.git
+git clone https://github.com/shashank10081999/bank-management-system
 cd bank-management-system
 pip install -r requirements.txt
 Use code with caution. Learn more
