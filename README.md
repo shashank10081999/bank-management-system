@@ -28,7 +28,7 @@ The project requires the following dependencies:
 MySQL
 Streamlit
 Documentation
-The project documentation is available here: https://github.com/[your-username]/bank-management-system/blob/master/README.md
+The project documentation is available here: https://github.com/shashank10081999/bank-management-system/blob/master/README.md
 
 Contributing
 If you would like to contribute to the project, please fork the repository and submit a pull request.
